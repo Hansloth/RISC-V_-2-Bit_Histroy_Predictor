@@ -4,6 +4,9 @@ Implementing 2-Bit_Histroy_Predictor with Python
 >* STEP1 Enter your input "T" and "N" (Must Be in capital letters)    
 >* STEP2 RUN!  
 
+## Sample Inputs and Outputs: 
+>code method  >![image](code_flow_chart.png)
+
 ## Sample Inputs and Outputs:   
 >Input:  TTTTNNTNTNTNTNTNT  
 >  
