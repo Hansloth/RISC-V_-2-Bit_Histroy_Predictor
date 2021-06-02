@@ -8,7 +8,7 @@ Implementing 2-Bit_Histroy_Predictor with Python
 >Input:  TTTTNNTNTNTNTNTNT  
 >  
 >Output:
->NN ['sn', 'sn', 'sn', 'sn']     Ground truth: T  Predict: N     predict wrong     Mispredict count =  1  
+>NN ['sn', 'sn', 'sn', 'sn'] <br />    Ground truth: T  Predict: N     predict wrong     Mispredict count =  1  
 >NT ['wn', 'sn', 'sn', 'sn']     Ground truth: T  Predict: N     predict wrong     Mispredict count =  2  
 >TT ['wn', 'wn', 'sn', 'sn']     Ground truth: T  Predict: N     predict wrong     Mispredict count =  3  
 >TT ['wn', 'wn', 'sn', 'wn']     Ground truth: T  Predict: N     predict wrong     Mispredict count =  4  
